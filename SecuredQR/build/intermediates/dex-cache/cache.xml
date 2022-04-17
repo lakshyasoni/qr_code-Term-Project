@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sayantan/MONTI/monti/Monti_Backup/PROGS/SecuredQR/app/libs/bouncycastle/bcprov-jdk15on-152.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="88a941faf9819d371e3174b5ed56a3f3f7d73269">
+        <dex dex="/home/sayantan/MONTI/monti/Monti_Backup/PROGS/SecuredQR/app/build/intermediates/pre-dexed/debug/bcprov-jdk15on-152-ff01aa86ffce188d249312157a46cb1d420f7970.jar" />
+    </item>
+
+</items>
